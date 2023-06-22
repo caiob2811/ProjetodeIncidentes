@@ -1,0 +1,11 @@
+package com.incidentes.crm.model;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class Cliente {
+
+	private Long id;
+	private String nome;
+	
+}

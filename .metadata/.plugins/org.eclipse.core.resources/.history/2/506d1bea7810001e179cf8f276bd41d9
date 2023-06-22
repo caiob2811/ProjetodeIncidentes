@@ -1,0 +1,5 @@
+package com.incidentes.crm.repository;
+
+public interface ClienteRepository {
+
+}
